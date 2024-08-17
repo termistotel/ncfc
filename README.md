@@ -1,0 +1,2 @@
+# ncfc
+ncurses file counter
